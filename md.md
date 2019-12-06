@@ -503,7 +503,7 @@ Accelerometer
 
 >   5.High-Level Design
 
-![](Untitled Diagram.png)
+![Untitled Diagram](Untitled Diagram.png)
 
 >   Above is the high level diagram which shows how the application will work
 >   internally and the functions will be connected to each other.
